@@ -8,7 +8,10 @@ The only modules you need to install for this project is:
 
 # How it Works 
 
-Run in your command line $ python checkmypass.py(password of your choosing)
+Run in your command line 
+```
+$ python checkmypass.py(password of your choosing)
 Ex: python checkmypass.py(12345) 
 <Response [200]>
 12345 was found 2389787 times.... you should change it
+```
